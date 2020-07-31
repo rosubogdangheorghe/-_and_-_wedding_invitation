@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+/* {
+	box-sizing: border-box;
+
+}*/
+
+body {
+	background-image: url(../images/fond.jpg);
+	background-position: center top;
+  	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-size: cover;
+	width:100%;
+	height: auto;
+	
+	}
+	
+ @media (max-width:768px){
+	body {
+	background-image: url("../images/fondsmall.jpg");
+	background-position: center top;
+  	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-size: cover;
+	width:100%;
+	height: auto;
+	}
+}
+
+	.principal {
+	width: 90%;	
+	text-align: center;
+	padding: 10px;
+	font-family: 'Great Vibes', cursive;
+	font-size: 4vw;
+	color:rgb(95, 59, 34);/*#a292a3*/
+	margin-left: auto;
+    margin-right: auto;
+}
+#parinti1 {
+	float: left;
+}
+#parinti2 {
+	float:right;
+}
+#title{
+	clear: both;
+/*	position: absolute;*/
+	float: none;
+}
+
+#miri {
+   font-family: 'Playball', cursive;
+    font-size: 8vw;
+    color: #a3a292; /*rgba(64,64,49,1.00);   text-shadow: 1px 1px rgba(233,218,185,1.00);*/
+}
+
+#citat{
+	color: #787672;
+	font-size: 5vw;
+}
+#nasi {
+	
+	color: #787672;
+	font-size: 5vw;
+}
+
+img {
+  max-width: 14vw;
+  position: absolute;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+span {
+	padding: 0.5vw;
+	border: solid;
+	border-color: rgb(95, 59, 34);
+	border-width: 0.1vw;
+}
+.creator {
+    font-size: 2vw;
+	float: right;
+	margin-right: 1vw;
+	padding-right: 1vw;
+}
+
+
+/*font-family: 'Vesper Libre', serif;
+font-family: 'Ruthie', cursive;*/
+/*
+font-family: 'Dancing Script', cursive;
+font-family: 'Great Vibes', cursive;
+font-family: 'Merienda One', cursive;
+font-family: 'Oleo Script', cursive;
+font-family: 'Playball', cursive;
+font-family: 'Tangerine', cursive;
+*/
+
+
