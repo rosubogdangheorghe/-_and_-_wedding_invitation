@@ -44,6 +44,12 @@ body {
 #parinti2 {
 	float:right;
 }
+span {
+	padding: 0.5vw;
+	border: solid;
+	border-color: rgb(95, 59, 34);
+	border-width: 0.1vw;
+}
 #title{
 	clear: both;
 /*	position: absolute;*/
@@ -70,18 +76,13 @@ body {
 
 img {
   max-width: 14vw;
-  position: absolute;
+  position: relative;
   height: auto;
   margin-left: auto;
   margin-right: auto;
   
 }
-span {
-	padding: 0.5vw;
-	border: solid;
-	border-color: rgb(95, 59, 34);
-	border-width: 0.1vw;
-}
+
 #telefon {
 	font-family: 'Great Vibes', cursive;
 }
