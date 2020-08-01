@@ -48,12 +48,14 @@ body {
 	clear: both;
 /*	position: absolute;*/
 	float: none;
+	font-size: 5vw;
 }
 
 #miri {
-   font-family: 'Playball', cursive;
+   font-family: 'Great Vibes', cursive;
     font-size: 8.5vw;
     color: #a3a292; /*rgba(64,64,49,1.00);   text-shadow: 1px 1px rgba(233,218,185,1.00);*/
+	text-shadow: 1px 1px rgba(233,218,185,1.00);
 }
 
 #citat{
