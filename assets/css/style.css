@@ -32,8 +32,8 @@ body {
 	width: 90%;	
 	text-align: center;
 	padding: 10px;
-	font-family: 'Great Vibes', cursive;
-	font-size: 4vw;
+	font-family: 'Dancing Script', cursive;
+	font-size: 4.5vw;
 	color:rgb(95, 59, 34);/*#a292a3*/
 	margin-left: auto;
     margin-right: auto;
@@ -52,7 +52,7 @@ body {
 
 #miri {
    font-family: 'Playball', cursive;
-    font-size: 8vw;
+    font-size: 8.5vw;
     color: #a3a292; /*rgba(64,64,49,1.00);   text-shadow: 1px 1px rgba(233,218,185,1.00);*/
 }
 
@@ -63,7 +63,7 @@ body {
 #nasi {
 	
 	color: #787672;
-	font-size: 5vw;
+	font-size: 7vw;
 }
 
 img {
@@ -79,6 +79,9 @@ span {
 	border: solid;
 	border-color: rgb(95, 59, 34);
 	border-width: 0.1vw;
+}
+#telefon {
+	font-family: 'Great Vibes', cursive;
 }
 .creator {
     font-size: 2vw;
